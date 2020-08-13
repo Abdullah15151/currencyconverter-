@@ -1,5 +1,4 @@
-Lab Assignment 02 : Javascript (section : 06)
-You have to prepare an online currency converter. The description of which is given in the PDF file
+
 
 
 
